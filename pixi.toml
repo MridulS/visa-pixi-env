@@ -1,0 +1,82 @@
+[workspace]
+authors = ["Mridul Seth <git@mriduls.com>"]
+#channels = ["conda-forge", "scipp", "ccpi", "https://software.repos.intel.com/python/conda"]
+channels = ["conda-forge", "scipp"]
+name = "pixi-locks"
+platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+ipywidgets = ">=8.1.5,<9"
+ipympl = ">=0.9.7,<0.10"
+pythreejs = ">=2.4.2,<3"
+jupyterlab-h5web = ">=12.4.0,<13"
+ipykernel = ">=6.29.5,<7"
+scitacean = ">=25.3.2,<26"
+
+[feature.convert]
+dependencies = { python = ">=3.12", pip = "*" }
+pypi-dependencies = { pixi-to-conda-lock = "*"}
+tasks = { convert = "pixi-to-conda-lock" }
+
+[feature.base.dependencies]
+jupyterlab = "*"
+nb_conda_kernels = "*"
+
+[feature.reflectometry.dependencies]
+essreflectometry = "==25.03.0"
+essreduce = "==25.03.1"
+pooch = "==1.8.2"
+
+[feature.diffraction.dependencies]
+essdiffraction = "==25.02.1"
+pooch = "==1.8.2"
+essreduce = "==25.03.1"
+
+[feature.sans.dependencies]
+esssans = "==25.02.0"
+pooch = "==1.8.2"
+essreduce = "==25.03.1"
+esspolarization = "==25.03.0"
+
+[feature.nmx.dependencies]
+essnmx = "==25.03.0"
+pooch = "==1.8.2"
+scippneutron = "==25.02.1"
+
+[feature.mcstas]
+platforms = ["linux-64"]
+
+[feature.mcstas.dependencies]
+mcstas = "==3.5.24"
+mcxtrace = "==3.5.24"
+xraylib = "*"
+ncrystal = "*"
+mcpl = "*"
+nexus = "*"
+openmpi = "*"
+
+#[feature.cil]
+#platforms = ["win-64", "linux-64"]
+#
+#[feature.cil.dependencies]
+#cil = "==24.2.0"
+#ipp = "==2021.12"
+#astra-toolbox = "*"
+#tigre = "*"
+#ccpi-regulariser = "*"
+#tomophantom = "*"
+#scikit-image = "*"
+
+[environments]
+# Create a custom environment which only has the `lint` feature (numpy isn't part of that env).
+base = ["base"]
+ess-reflectometry = ["reflectometry"]
+ess-diffraction = ["diffraction"]
+ess-sans = ["sans"]
+ess-nmx = ["nmx"]
+ess-mcstas = ["mcstas"]
+#ess-cil = ["cil"]
+convert = {features = ["convert"], no-default-feature = true}
