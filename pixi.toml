@@ -54,13 +54,6 @@ mcpl = "*"
 nexus = "*"
 openmpi = "*"
 
-# TODO:
-# Converting pixi to conda-lock leads to an error.
-# .....
-#     "sha256": repodata_record.sha256.hex(),
-# AttributeError: 'NoneType' object has no attribute 'hex'
-# To generate the conda lock files, we need to comment
-# out the cil feature.
 [feature.cil]
 platforms = ["linux-64"]
 
@@ -73,6 +66,27 @@ ccpi-regulariser = "*"
 tomophantom = "*"
 scikit-image = "*"
 
+[feature.dmsc_ss.dependencies]
+mcstas  = "*"
+scitacean  = "*"
+paramiko = "*"
+scipy = "*"
+scippnexus = "*"
+scippneutron = "*"
+scipp = "*"
+pooch = "*"
+plopp = "*"
+pandas = "*"
+numpy = "*"
+mpltoolbox = "*"
+matplotlib = "*"
+h5py = "*"
+python-graphviz = "*"
+easyscience = "*"
+dynesty = "*"
+corner = "*"
+emcee = "*"
+
 [environments]
 base = ["base"]
 ess-reflectometry = ["reflectometry"]
@@ -81,4 +95,5 @@ ess-sans = ["sans"]
 ess-nmx = ["nmx"]
 ess-mcstas = ["mcstas"]
 ess-cil = ["cil"]
+dmsc-summer-school = ["dmsc_ss"]
 convert = {features = ["convert"], no-default-feature = true}
