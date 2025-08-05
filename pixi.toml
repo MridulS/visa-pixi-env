@@ -1,10 +1,9 @@
 [workspace]
 authors = ["Mridul Seth <git@mriduls.com>"]
 channels = ["conda-forge", "scipp", "ccpi", "https://software.repos.intel.com/python/conda"]
-# channels = ["conda-forge", "scipp"]
 name = "visa-pixi-locks"
 platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
-version = "2025.7.0"
+version = "2025.8.0"
 
 [tasks]
 
