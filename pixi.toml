@@ -1,9 +1,9 @@
 [workspace]
 authors = ["Mridul Seth <git@mriduls.com>"]
-channels = ["conda-forge", "scipp", "ccpi", "https://software.repos.intel.com/python/conda"]
+channels = ["conda-forge"]
 name = "visa-pixi-locks"
 platforms = ["win-64", "linux-64", "osx-64", "osx-arm64"]
-version = "2025.8.0"
+version = "2025.8.1"
 
 [tasks]
 
@@ -35,7 +35,10 @@ essdiffraction = "==25.06.0"
 
 [feature.sans.dependencies]
 esssans = "==25.06.0"
-esspolarization = "==25.03.0"
+esspolarization = "==25.07.0"
+
+[feature.imaging.dependencies]
+essimaging = "==25.04.0"
 
 [feature.nmx.dependencies]
 essnmx = "==25.03.0"
@@ -55,6 +58,7 @@ openmpi = "*"
 
 [feature.cil]
 platforms = ["linux-64"]
+channels = ["conda-forge", "ccpi", "https://software.repos.intel.com/python/conda"]
 
 [feature.cil.dependencies]
 cil = "==24.3.0"
@@ -94,5 +98,6 @@ ess-sans = ["sans"]
 ess-nmx = ["nmx"]
 ess-mcstas = ["mcstas"]
 ess-cil = ["cil"]
+ess-imaging = ["imaging"]
 dmsc-summer-school = ["dmsc_ss"]
 convert = {features = ["convert"], no-default-feature = true}
