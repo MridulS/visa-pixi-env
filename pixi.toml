@@ -89,6 +89,7 @@ easyscience = "*"
 dynesty = "*"
 corner = "*"
 emcee = "*"
+mcstastox = "*"
 
 [environments]
 base = ["base"]
