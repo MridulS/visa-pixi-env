@@ -90,6 +90,9 @@ dynesty = "*"
 corner = "*"
 emcee = "*"
 
+[feature.dmsc_ss.pypi-dependencies]
+jupyterquiz = "*"
+
 [environments]
 base = ["base"]
 ess-reflectometry = ["reflectometry"]
