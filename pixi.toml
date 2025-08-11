@@ -89,6 +89,13 @@ easyscience = "*"
 dynesty = "*"
 corner = "*"
 emcee = "*"
+easydiffraction = "*"
+darkdetect = "*"
+plotly = "<6.0.0"
+py3dmol = "*"
+
+[feature.dmsc_ss.pypi-dependencies]
+mcstastox = "*"
 
 [environments]
 base = ["base"]
