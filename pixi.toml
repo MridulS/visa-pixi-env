@@ -89,6 +89,7 @@ easyscience = "*"
 dynesty = "*"
 corner = "*"
 emcee = "*"
+jupyterquiz = "*"
 pytest = "*"
 mcstastox = "*"
 
