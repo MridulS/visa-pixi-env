@@ -90,6 +90,8 @@ dynesty = "*"
 corner = "*"
 emcee = "*"
 jupyterquiz = "*"
+pytest = "*"
+mcstastox = "*"
 
 [environments]
 base = ["base"]
