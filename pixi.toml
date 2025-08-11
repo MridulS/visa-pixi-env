@@ -92,6 +92,9 @@ emcee = "*"
 easydiffraction = "*"
 plotly = "<6.0.0"
 py3dmol = "*"
+jupyterquiz = "*"
+pytest = "*"
+mcstastox = "*"
 
 [environments]
 base = ["base"]
