@@ -28,17 +28,17 @@ jupyterlab = "*"
 nb_conda_kernels = "*"
 
 [feature.reflectometry.dependencies]
-essreflectometry = "==25.05.1"
+essreflectometry = "==25.08.0"
 
 [feature.diffraction.dependencies]
-essdiffraction = "==25.06.0"
+essdiffraction = "==25.08.0"
 
 [feature.sans.dependencies]
 esssans = "==25.06.0"
 esspolarization = "==25.07.0"
 
 [feature.imaging.dependencies]
-essimaging = "==25.04.0"
+essimaging = "==25.08.0"
 
 [feature.nmx.dependencies]
 essnmx = "==25.03.0"
@@ -48,8 +48,8 @@ scippneutron = "==25.07.0"
 platforms = ["linux-64", "osx-64", "osx-arm64"]
 
 [feature.mcstas.dependencies]
-mcstas = "==3.5.32"
-mcxtrace = "==3.5.32"
+mcstas = "==3.5.35"
+mcxtrace = "==3.5.35"
 xraylib = "*"
 ncrystal = "*"
 mcpl = "*"
