@@ -645,26 +645,26 @@ package:
   category: main
   optional: false
 - name: essdiffraction
-  version: 25.6.0
+  version: 25.8.0
   manager: conda
   platform: win-64
   dependencies:
     python: '*'
-    dask-core: '*'
-    essreduce: '>=25.5.3'
+    dask-core: '>=2022.1.0'
+    essreduce: '>=25.7.0'
     python-graphviz: '*'
-    numpy: '*'
-    plopp: '>=25.3.0'
-    pythreejs: '*'
+    numpy: '>=1.25'
+    plopp: '>=25.7.0'
+    pythreejs: '>=2.4.1'
     sciline: '>=25.4.1'
     scipp: '>=25.5.1'
     scippneutron: '>=25.2.0'
     scippnexus: '>=23.12.0'
     tof: '>=25.1.2'
-  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.6.0-pyhe01879c_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5a9e23eb0bfa6170b15935a3aec36566
-    sha256: 9beb7892ab6ac9f3ec0fb2ac8cb77fbe9851c423943524c5512183aca09afbd6
+    md5: 66eb27c666b03c4315f1cc4aa669da5a
+    sha256: f0eb25bba571b1ea37ef1e30081a9be420c400ef75a22765bc4433d772a916eb
   category: main
   optional: false
 - name: essreduce
@@ -4625,26 +4625,26 @@ package:
   category: main
   optional: false
 - name: essdiffraction
-  version: 25.6.0
+  version: 25.8.0
   manager: conda
   platform: osx-64
   dependencies:
     python: '*'
-    dask-core: '*'
-    essreduce: '>=25.5.3'
+    dask-core: '>=2022.1.0'
+    essreduce: '>=25.7.0'
     python-graphviz: '*'
-    numpy: '*'
-    plopp: '>=25.3.0'
-    pythreejs: '*'
+    numpy: '>=1.25'
+    plopp: '>=25.7.0'
+    pythreejs: '>=2.4.1'
     sciline: '>=25.4.1'
     scipp: '>=25.5.1'
     scippneutron: '>=25.2.0'
     scippnexus: '>=23.12.0'
     tof: '>=25.1.2'
-  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.6.0-pyhe01879c_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5a9e23eb0bfa6170b15935a3aec36566
-    sha256: 9beb7892ab6ac9f3ec0fb2ac8cb77fbe9851c423943524c5512183aca09afbd6
+    md5: 66eb27c666b03c4315f1cc4aa669da5a
+    sha256: f0eb25bba571b1ea37ef1e30081a9be420c400ef75a22765bc4433d772a916eb
   category: main
   optional: false
 - name: essreduce
@@ -8482,26 +8482,26 @@ package:
   category: main
   optional: false
 - name: essdiffraction
-  version: 25.6.0
+  version: 25.8.0
   manager: conda
   platform: osx-arm64
   dependencies:
     python: '*'
-    dask-core: '*'
-    essreduce: '>=25.5.3'
+    dask-core: '>=2022.1.0'
+    essreduce: '>=25.7.0'
     python-graphviz: '*'
-    numpy: '*'
-    plopp: '>=25.3.0'
-    pythreejs: '*'
+    numpy: '>=1.25'
+    plopp: '>=25.7.0'
+    pythreejs: '>=2.4.1'
     sciline: '>=25.4.1'
     scipp: '>=25.5.1'
     scippneutron: '>=25.2.0'
     scippnexus: '>=23.12.0'
     tof: '>=25.1.2'
-  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.6.0-pyhe01879c_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5a9e23eb0bfa6170b15935a3aec36566
-    sha256: 9beb7892ab6ac9f3ec0fb2ac8cb77fbe9851c423943524c5512183aca09afbd6
+    md5: 66eb27c666b03c4315f1cc4aa669da5a
+    sha256: f0eb25bba571b1ea37ef1e30081a9be420c400ef75a22765bc4433d772a916eb
   category: main
   optional: false
 - name: essreduce
@@ -12426,26 +12426,26 @@ package:
   category: main
   optional: false
 - name: essdiffraction
-  version: 25.6.0
+  version: 25.8.0
   manager: conda
   platform: linux-64
   dependencies:
     python: '*'
-    dask-core: '*'
-    essreduce: '>=25.5.3'
+    dask-core: '>=2022.1.0'
+    essreduce: '>=25.7.0'
     python-graphviz: '*'
-    numpy: '*'
-    plopp: '>=25.3.0'
-    pythreejs: '*'
+    numpy: '>=1.25'
+    plopp: '>=25.7.0'
+    pythreejs: '>=2.4.1'
     sciline: '>=25.4.1'
     scipp: '>=25.5.1'
     scippneutron: '>=25.2.0'
     scippnexus: '>=23.12.0'
     tof: '>=25.1.2'
-  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.6.0-pyhe01879c_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5a9e23eb0bfa6170b15935a3aec36566
-    sha256: 9beb7892ab6ac9f3ec0fb2ac8cb77fbe9851c423943524c5512183aca09afbd6
+    md5: 66eb27c666b03c4315f1cc4aa669da5a
+    sha256: f0eb25bba571b1ea37ef1e30081a9be420c400ef75a22765bc4433d772a916eb
   category: main
   optional: false
 - name: essreduce

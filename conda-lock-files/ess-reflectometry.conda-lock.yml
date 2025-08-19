@@ -661,26 +661,26 @@ package:
   category: main
   optional: false
 - name: essreflectometry
-  version: 25.5.1
+  version: 25.8.0
   manager: conda
   platform: win-64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-dateutil: '*'
     python-graphviz: '*'
-    plopp: '*'
-    orsopy: '*'
+    plopp: '>=24.7.0'
+    orsopy: '>=1.2'
     sciline: '>=24.6.0'
     scipp: '>=24.9.1'
-    scippneutron: '>=24.7.0'
+    scippneutron: '>=24.10.0'
     scippnexus: '>=24.9.1'
-    essreduce: '*'
-    pandas: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.5.1-pyhe01879c_0.conda
+    essreduce: '>=25.4.0'
+    pandas: '>=2.1.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 454f73ace569f14f6faef4931ccdb15e
-    sha256: a9ad4abc1799354796a1845aa93f2c87910d24f71f5d45cfb393bd3b1923b6ca
+    md5: c9ecddff5846bbdf2a229f09982ce4aa
+    sha256: eda33902e35006b7c44333248dac8e0e284461e116c8a79037a4d55a416c6ad9
   category: main
   optional: false
 - name: exceptiongroup
@@ -4681,26 +4681,26 @@ package:
   category: main
   optional: false
 - name: essreflectometry
-  version: 25.5.1
+  version: 25.8.0
   manager: conda
   platform: osx-64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-dateutil: '*'
     python-graphviz: '*'
-    plopp: '*'
-    orsopy: '*'
+    plopp: '>=24.7.0'
+    orsopy: '>=1.2'
     sciline: '>=24.6.0'
     scipp: '>=24.9.1'
-    scippneutron: '>=24.7.0'
+    scippneutron: '>=24.10.0'
     scippnexus: '>=24.9.1'
-    essreduce: '*'
-    pandas: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.5.1-pyhe01879c_0.conda
+    essreduce: '>=25.4.0'
+    pandas: '>=2.1.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 454f73ace569f14f6faef4931ccdb15e
-    sha256: a9ad4abc1799354796a1845aa93f2c87910d24f71f5d45cfb393bd3b1923b6ca
+    md5: c9ecddff5846bbdf2a229f09982ce4aa
+    sha256: eda33902e35006b7c44333248dac8e0e284461e116c8a79037a4d55a416c6ad9
   category: main
   optional: false
 - name: exceptiongroup
@@ -8578,26 +8578,26 @@ package:
   category: main
   optional: false
 - name: essreflectometry
-  version: 25.5.1
+  version: 25.8.0
   manager: conda
   platform: osx-arm64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-dateutil: '*'
     python-graphviz: '*'
-    plopp: '*'
-    orsopy: '*'
+    plopp: '>=24.7.0'
+    orsopy: '>=1.2'
     sciline: '>=24.6.0'
     scipp: '>=24.9.1'
-    scippneutron: '>=24.7.0'
+    scippneutron: '>=24.10.0'
     scippnexus: '>=24.9.1'
-    essreduce: '*'
-    pandas: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.5.1-pyhe01879c_0.conda
+    essreduce: '>=25.4.0'
+    pandas: '>=2.1.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 454f73ace569f14f6faef4931ccdb15e
-    sha256: a9ad4abc1799354796a1845aa93f2c87910d24f71f5d45cfb393bd3b1923b6ca
+    md5: c9ecddff5846bbdf2a229f09982ce4aa
+    sha256: eda33902e35006b7c44333248dac8e0e284461e116c8a79037a4d55a416c6ad9
   category: main
   optional: false
 - name: exceptiongroup
@@ -12562,26 +12562,26 @@ package:
   category: main
   optional: false
 - name: essreflectometry
-  version: 25.5.1
+  version: 25.8.0
   manager: conda
   platform: linux-64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-dateutil: '*'
     python-graphviz: '*'
-    plopp: '*'
-    orsopy: '*'
+    plopp: '>=24.7.0'
+    orsopy: '>=1.2'
     sciline: '>=24.6.0'
     scipp: '>=24.9.1'
-    scippneutron: '>=24.7.0'
+    scippneutron: '>=24.10.0'
     scippnexus: '>=24.9.1'
-    essreduce: '*'
-    pandas: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.5.1-pyhe01879c_0.conda
+    essreduce: '>=25.4.0'
+    pandas: '>=2.1.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essreflectometry-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 454f73ace569f14f6faef4931ccdb15e
-    sha256: a9ad4abc1799354796a1845aa93f2c87910d24f71f5d45cfb393bd3b1923b6ca
+    md5: c9ecddff5846bbdf2a229f09982ce4aa
+    sha256: eda33902e35006b7c44333248dac8e0e284461e116c8a79037a4d55a416c6ad9
   category: main
   optional: false
 - name: exceptiongroup

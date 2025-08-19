@@ -269,4 +269,4 @@ https://conda.anaconda.org/conda-forge/noarch/fsspec-2025.7.0-pyhd8ed1ab_0.conda
 https://conda.anaconda.org/conda-forge/noarch/cloudpickle-3.1.1-pyhd8ed1ab_0.conda#364ba6c9fb03886ac979b482f39ebb92
 https://conda.anaconda.org/conda-forge/noarch/click-8.2.2-pyh707e725_0.conda#2cc16494e4ce28efc52fb29ec3c348a1
 https://conda.anaconda.org/conda-forge/noarch/dask-core-2025.7.0-pyhe01879c_1.conda#3293644021329a96c606c3d95e180991
-https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.6.0-pyhe01879c_1.conda#5a9e23eb0bfa6170b15935a3aec36566
+https://conda.anaconda.org/conda-forge/noarch/essdiffraction-25.8.0-pyhe01879c_0.conda#66eb27c666b03c4315f1cc4aa669da5a

@@ -645,24 +645,24 @@ package:
   category: main
   optional: false
 - name: essimaging
-  version: 25.4.0
+  version: 25.8.0
   manager: conda
   platform: win-64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-graphviz: '*'
-    plopp: '*'
+    plopp: '>=23.10.0'
     sciline: '>=23.9.1'
     scipp: '>=23.8.0'
     scippneutron: '>=24.12.0'
     scippnexus: '>=23.11.1'
-    essreduce: '>=25.2.4'
-    tifffile: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.4.0-pyhe01879c_1.conda
+    essreduce: '>=25.7.0'
+    tifffile: '>=2024.7.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5557785e317d00f0ba827d38fecc9608
-    sha256: b6ed23094c53c14255d8cb890fe2ffecb042cfdb0c15e48c7fa7bebd1d003bea
+    md5: 48afce16c161c9347c317038584a4c2b
+    sha256: 134c50ed8831fdd55ec3f6bfb8273349fc8b43e493ba87f794c359f8ab796882
   category: main
   optional: false
 - name: essreduce
@@ -4606,24 +4606,24 @@ package:
   category: main
   optional: false
 - name: essimaging
-  version: 25.4.0
+  version: 25.8.0
   manager: conda
   platform: osx-64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-graphviz: '*'
-    plopp: '*'
+    plopp: '>=23.10.0'
     sciline: '>=23.9.1'
     scipp: '>=23.8.0'
     scippneutron: '>=24.12.0'
     scippnexus: '>=23.11.1'
-    essreduce: '>=25.2.4'
-    tifffile: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.4.0-pyhe01879c_1.conda
+    essreduce: '>=25.7.0'
+    tifffile: '>=2024.7.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5557785e317d00f0ba827d38fecc9608
-    sha256: b6ed23094c53c14255d8cb890fe2ffecb042cfdb0c15e48c7fa7bebd1d003bea
+    md5: 48afce16c161c9347c317038584a4c2b
+    sha256: 134c50ed8831fdd55ec3f6bfb8273349fc8b43e493ba87f794c359f8ab796882
   category: main
   optional: false
 - name: essreduce
@@ -8445,24 +8445,24 @@ package:
   category: main
   optional: false
 - name: essimaging
-  version: 25.4.0
+  version: 25.8.0
   manager: conda
   platform: osx-arm64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-graphviz: '*'
-    plopp: '*'
+    plopp: '>=23.10.0'
     sciline: '>=23.9.1'
     scipp: '>=23.8.0'
     scippneutron: '>=24.12.0'
     scippnexus: '>=23.11.1'
-    essreduce: '>=25.2.4'
-    tifffile: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.4.0-pyhe01879c_1.conda
+    essreduce: '>=25.7.0'
+    tifffile: '>=2024.7.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5557785e317d00f0ba827d38fecc9608
-    sha256: b6ed23094c53c14255d8cb890fe2ffecb042cfdb0c15e48c7fa7bebd1d003bea
+    md5: 48afce16c161c9347c317038584a4c2b
+    sha256: 134c50ed8831fdd55ec3f6bfb8273349fc8b43e493ba87f794c359f8ab796882
   category: main
   optional: false
 - name: essreduce
@@ -12371,24 +12371,24 @@ package:
   category: main
   optional: false
 - name: essimaging
-  version: 25.4.0
+  version: 25.8.0
   manager: conda
   platform: linux-64
   dependencies:
     python: '*'
-    dask-core: '*'
+    dask-core: '>=2022.1.0'
     python-graphviz: '*'
-    plopp: '*'
+    plopp: '>=23.10.0'
     sciline: '>=23.9.1'
     scipp: '>=23.8.0'
     scippneutron: '>=24.12.0'
     scippnexus: '>=23.11.1'
-    essreduce: '>=25.2.4'
-    tifffile: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.4.0-pyhe01879c_1.conda
+    essreduce: '>=25.7.0'
+    tifffile: '>=2024.7.2'
+  url: https://conda.anaconda.org/conda-forge/noarch/essimaging-25.8.0-pyhe01879c_0.conda
   hash:
-    md5: 5557785e317d00f0ba827d38fecc9608
-    sha256: b6ed23094c53c14255d8cb890fe2ffecb042cfdb0c15e48c7fa7bebd1d003bea
+    md5: 48afce16c161c9347c317038584a4c2b
+    sha256: 134c50ed8831fdd55ec3f6bfb8273349fc8b43e493ba87f794c359f8ab796882
   category: main
   optional: false
 - name: essreduce
