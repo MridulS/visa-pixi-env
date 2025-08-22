@@ -405,7 +405,7 @@ https://conda.anaconda.org/conda-forge/noarch/darkdetect-0.8.0-pyhd8ed1ab_1.cond
 https://conda.anaconda.org/conda-forge/noarch/pycifstar-0.3.0-pyh1646c32_0.conda#c6badd4c3f05e998473c4d5ef1e67df6
 https://conda.anaconda.org/conda-forge/noarch/cryspy-0.7.9-pyhe01879c_0.conda#8f5fe2dbbd151cc82b1f3def9969dcb0
 https://conda.anaconda.org/conda-forge/noarch/asciichartpy-1.5.25-pyhd8ed1ab_1.conda#60753da4446366dbdf233121ff11df03
-https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.0-pyhcf101f3_1.conda#e7cf06914e6a3ce5b1234c13495b2da0
+https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.1-pyhcf101f3_0.conda#2447e0a17565e381882b54d50798e837
 https://conda.anaconda.org/conda-forge/noarch/dynesty-2.1.5-pyhd8ed1ab_0.conda#326de5acee60b80fdb4957a9ea80a03d
 https://conda.anaconda.org/conda-forge/noarch/xarray-einstats-0.9.1-pyhd8ed1ab_0.conda#18860b32ac96f7e9d8be1c91eb601462
 https://conda.anaconda.org/conda-forge/noarch/h5netcdf-1.6.4-pyhd8ed1ab_0.conda#69bee100efb4f22b0072e5c806223609

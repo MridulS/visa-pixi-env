@@ -919,7 +919,7 @@ package:
   category: main
   optional: false
 - name: easydiffraction
-  version: 0.6.0
+  version: 0.6.1
   manager: conda
   platform: win-64
   dependencies:
@@ -943,10 +943,10 @@ package:
     pandas: '*'
     py3dmol: '*'
     plotly: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.0-pyhcf101f3_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.1-pyhcf101f3_0.conda
   hash:
-    md5: e7cf06914e6a3ce5b1234c13495b2da0
-    sha256: 2e0b39bcd9212096d9da50cb90a5d5c1daea80e53e8d8e131b93fde002bd4f16
+    md5: 2447e0a17565e381882b54d50798e837
+    sha256: 3d1590d6a123e1cb23b88dc636d9ede72901ca3b703e58edc95d14f410a3b877
   category: main
   optional: false
 - name: easyscience
@@ -7231,7 +7231,7 @@ package:
   category: main
   optional: false
 - name: easydiffraction
-  version: 0.6.0
+  version: 0.6.1
   manager: conda
   platform: osx-64
   dependencies:
@@ -7255,10 +7255,10 @@ package:
     pandas: '*'
     py3dmol: '*'
     plotly: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.0-pyhcf101f3_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.1-pyhcf101f3_0.conda
   hash:
-    md5: e7cf06914e6a3ce5b1234c13495b2da0
-    sha256: 2e0b39bcd9212096d9da50cb90a5d5c1daea80e53e8d8e131b93fde002bd4f16
+    md5: 2447e0a17565e381882b54d50798e837
+    sha256: 3d1590d6a123e1cb23b88dc636d9ede72901ca3b703e58edc95d14f410a3b877
   category: main
   optional: false
 - name: easyscience
@@ -19392,7 +19392,7 @@ package:
   category: main
   optional: false
 - name: easydiffraction
-  version: 0.6.0
+  version: 0.6.1
   manager: conda
   platform: linux-64
   dependencies:
@@ -19416,10 +19416,10 @@ package:
     pandas: '*'
     py3dmol: '*'
     plotly: '*'
-  url: https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.0-pyhcf101f3_1.conda
+  url: https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.1-pyhcf101f3_0.conda
   hash:
-    md5: e7cf06914e6a3ce5b1234c13495b2da0
-    sha256: 2e0b39bcd9212096d9da50cb90a5d5c1daea80e53e8d8e131b93fde002bd4f16
+    md5: 2447e0a17565e381882b54d50798e837
+    sha256: 3d1590d6a123e1cb23b88dc636d9ede72901ca3b703e58edc95d14f410a3b877
   category: main
   optional: false
 - name: easyscience
