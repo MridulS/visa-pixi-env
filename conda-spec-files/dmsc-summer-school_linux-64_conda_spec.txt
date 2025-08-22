@@ -223,7 +223,7 @@ https://conda.anaconda.org/conda-forge/linux-64/tornado-6.5.2-py312h4c3975b_0.co
 https://conda.anaconda.org/conda-forge/linux-64/zeromq-4.3.5-h3b0a872_7.conda#3947a35e916fcc6b9825449affbf4214
 https://conda.anaconda.org/conda-forge/linux-64/pyzmq-27.0.2-py312h6748674_0.conda#e0770749ec419e8e68e71716507c1be4
 https://conda.anaconda.org/conda-forge/noarch/jupyter_client-8.6.3-pyhd8ed1ab_1.conda#4ebae00eae9705b0c3d6d1018a81d047
-https://conda.anaconda.org/conda-forge/linux-64/psutil-7.0.0-py312h66e93f0_0.conda#8e30db4239508a538e4a3b3cdf5b9616
+https://conda.anaconda.org/conda-forge/linux-64/psutil-7.0.0-py312h4c3975b_1.conda#ebc6080d32b9608710a0d651e581d9f4
 https://conda.anaconda.org/conda-forge/noarch/nest-asyncio-1.6.0-pyhd8ed1ab_1.conda#598fd7d4d0de2455fb74f56063969a97
 https://conda.anaconda.org/conda-forge/linux-64/debugpy-1.8.16-py312h8285ef7_0.conda#6205bf8723b4b79275dd52ef60cf6af1
 https://conda.anaconda.org/conda-forge/noarch/ipykernel-6.30.1-pyh82676e8_0.conda#b0cc25825ce9212b8bee37829abad4d6
@@ -442,7 +442,7 @@ https://conda.anaconda.org/conda-forge/noarch/python-engineio-4.12.2-pyhff2d567_
 https://conda.anaconda.org/conda-forge/noarch/bidict-0.23.1-pyhd8ed1ab_1.conda#a6d521e8054c6b38aea1095060bd7e14
 https://conda.anaconda.org/conda-forge/noarch/python-socketio-5.13.0-pyhd8ed1ab_0.conda#b066d555377aba95fde57da098d80fb6
 https://conda.anaconda.org/conda-forge/noarch/narwhals-2.1.2-pyhe01879c_0.conda#90d3b6c75c144e8c461b846410d7c0bf
-https://conda.anaconda.org/conda-forge/noarch/plotly-6.0.1-pyhd8ed1ab_0.conda#37ce02c899ff42ac5c554257b1a5906e
+https://conda.anaconda.org/conda-forge/noarch/plotly-6.3.0-pyhd8ed1ab_0.conda#5366b5b366cd3a2efa7e638792972ea1
 https://conda.anaconda.org/conda-forge/noarch/mpld3-0.5.11-pyhd8ed1ab_0.conda#168cf77ac3dcd7f222c2cc0d985574e3
 https://conda.anaconda.org/conda-forge/noarch/blinker-1.9.0-pyhff2d567_0.conda#42834439227a4551b939beeeb8a4b085
 https://conda.anaconda.org/conda-forge/linux-64/propcache-0.3.1-py312h178313f_0.conda#0cf580c1b73146bb9ff1bbdb4d4c8cf9
@@ -477,7 +477,7 @@ https://conda.anaconda.org/conda-forge/noarch/darkdetect-0.8.0-pyhd8ed1ab_1.cond
 https://conda.anaconda.org/conda-forge/noarch/pycifstar-0.3.0-pyh1646c32_0.conda#c6badd4c3f05e998473c4d5ef1e67df6
 https://conda.anaconda.org/conda-forge/noarch/cryspy-0.7.9-pyhe01879c_0.conda#8f5fe2dbbd151cc82b1f3def9969dcb0
 https://conda.anaconda.org/conda-forge/noarch/asciichartpy-1.5.25-pyhd8ed1ab_1.conda#60753da4446366dbdf233121ff11df03
-https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.0-pyhcf101f3_0.conda#cf3c78bb75ef6dc172b408c9e5b94d59
+https://conda.anaconda.org/conda-forge/noarch/easydiffraction-0.6.0-pyhcf101f3_1.conda#e7cf06914e6a3ce5b1234c13495b2da0
 https://conda.anaconda.org/conda-forge/noarch/dynesty-2.1.5-pyhd8ed1ab_0.conda#326de5acee60b80fdb4957a9ea80a03d
 https://conda.anaconda.org/conda-forge/noarch/xarray-einstats-0.9.1-pyhd8ed1ab_0.conda#18860b32ac96f7e9d8be1c91eb601462
 https://conda.anaconda.org/conda-forge/noarch/h5netcdf-1.6.4-pyhd8ed1ab_0.conda#69bee100efb4f22b0072e5c806223609

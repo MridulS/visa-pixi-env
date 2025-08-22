@@ -194,7 +194,7 @@ https://conda.anaconda.org/conda-forge/noarch/tifffile-2025.6.11-pyhd8ed1ab_0.co
 https://conda.anaconda.org/conda-forge/linux-64/orjson-3.11.2-py312h868fb18_0.conda#a44112ec795f61f9a5adee6412ce5846
 https://conda.anaconda.org/conda-forge/noarch/h5grove-2.3.0-pyhd8ed1ab_1.conda#1fea78799c996e31c03e360e7d670982
 https://conda.anaconda.org/conda-forge/noarch/jupyterlab-h5web-12.4.0-pyhd8ed1ab_0.conda#69c181327cbfabbf224223d54e6f53b1
-https://conda.anaconda.org/conda-forge/linux-64/psutil-7.0.0-py312h66e93f0_0.conda#8e30db4239508a538e4a3b3cdf5b9616
+https://conda.anaconda.org/conda-forge/linux-64/psutil-7.0.0-py312h4c3975b_1.conda#ebc6080d32b9608710a0d651e581d9f4
 https://conda.anaconda.org/conda-forge/noarch/nest-asyncio-1.6.0-pyhd8ed1ab_1.conda#598fd7d4d0de2455fb74f56063969a97
 https://conda.anaconda.org/conda-forge/linux-64/debugpy-1.8.16-py312h8285ef7_0.conda#6205bf8723b4b79275dd52ef60cf6af1
 https://conda.anaconda.org/conda-forge/noarch/comm-0.2.3-pyhe01879c_0.conda#2da13f2b299d8e1995bafbbe9689a2f7

@@ -93,7 +93,7 @@ https://conda.anaconda.org/conda-forge/noarch/platformdirs-4.3.8-pyhe01879c_0.co
 https://conda.anaconda.org/conda-forge/noarch/packaging-25.0-pyh29332c3_1.conda#58335b26c38bf4a20f399384c33cbcf9
 https://conda.anaconda.org/conda-forge/noarch/pooch-1.8.2-pyhd8ed1ab_3.conda#d2bbbd293097e664ffb01fc4cdaf5729
 https://conda.anaconda.org/conda-forge/win-64/pywin32-311-py312h829343e_0.conda#e9c66e89c71bac06654d9215534e9b83
-https://conda.anaconda.org/conda-forge/win-64/psutil-7.0.0-py312h4389bb4_0.conda#f5b86d6e2e645ee276febe79a310b640
+https://conda.anaconda.org/conda-forge/win-64/psutil-7.0.0-py312he06e257_1.conda#f3362e816f134b248cc0ac41924c7277
 https://conda.anaconda.org/conda-forge/win-64/tornado-6.5.2-py312he06e257_0.conda#ef13034aef592637ce6e2dc1ca126bca
 https://conda.anaconda.org/conda-forge/noarch/websocket-client-1.8.0-pyhd8ed1ab_1.conda#84f8f77f0a9c6ef401ee96611745da8f
 https://conda.anaconda.org/conda-forge/win-64/winpty-0.4.3-4.tar.bz2#1cee351bf20b830d991dbe0bc8cd7dfe

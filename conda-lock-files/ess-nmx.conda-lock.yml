@@ -2805,12 +2805,12 @@ package:
     python: '>=3.12,<3.13.0a0'
     python_abi 3.12.* *_cp312: '*'
     ucrt: '>=10.0.20348.0'
-    vc: '>=14.2,<15'
-    vc14_runtime: '>=14.29.30139'
-  url: https://conda.anaconda.org/conda-forge/win-64/psutil-7.0.0-py312h4389bb4_0.conda
+    vc: '>=14.3,<15'
+    vc14_runtime: '>=14.44.35208'
+  url: https://conda.anaconda.org/conda-forge/win-64/psutil-7.0.0-py312he06e257_1.conda
   hash:
-    md5: f5b86d6e2e645ee276febe79a310b640
-    sha256: 088451ee2c9a349e1168f70afe275e58f86350faffb09c032cff76f97d4fb7bb
+    md5: f3362e816f134b248cc0ac41924c7277
+    sha256: 5da4eabbcf285a251d06827484b7f90ad43a7960b6753c57d4735966851d16e1
   category: main
   optional: false
 - name: pthread-stubs
@@ -6916,10 +6916,10 @@ package:
     __osx: '>=10.13'
     python: '>=3.12,<3.13.0a0'
     python_abi 3.12.* *_cp312: '*'
-  url: https://conda.anaconda.org/conda-forge/osx-64/psutil-7.0.0-py312h01d7ebd_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-64/psutil-7.0.0-py312h2f459f6_1.conda
   hash:
-    md5: fcad6b89f4f7faa999fa4d887eab14ba
-    sha256: bdfa40a1ef3a80c3bec425a5ed507ebda2bdebce2a19bccb000db9d5c931750c
+    md5: d2d5563cc54683a441e2de5fd332911d
+    sha256: 818b08bcb49a1d2384b6244c0910ec1daec5c7182bfdf0e7b878d7526c0683e9
   category: main
   optional: false
 - name: pthread-stubs
@@ -10852,10 +10852,10 @@ package:
     __osx: '>=11.0'
     python: '>=3.12,<3.13.0a0 *_cpython'
     python_abi 3.12.* *_cp312: '*'
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/psutil-7.0.0-py312hea69d52_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/psutil-7.0.0-py312h163523d_1.conda
   hash:
-    md5: 0f461bd37cb428dc20213a08766bb25d
-    sha256: cb11dcb39b2035ef42c3df89b5a288744b5dcb5a98fb47385760843b1d4df046
+    md5: 2d2326a0b582b1b56252a479f204fab1
+    sha256: 7cae084fc2776ad6425d1713430ee39fb3366dae4742e005dc64d425eed3a2f8
   category: main
   optional: false
 - name: pthread-stubs
@@ -15072,13 +15072,13 @@ package:
   platform: linux-64
   dependencies:
     __glibc: '>=2.17,<3.0.a0'
-    libgcc: '>=13'
+    libgcc: '>=14'
     python: '>=3.12,<3.13.0a0'
     python_abi 3.12.* *_cp312: '*'
-  url: https://conda.anaconda.org/conda-forge/linux-64/psutil-7.0.0-py312h66e93f0_0.conda
+  url: https://conda.anaconda.org/conda-forge/linux-64/psutil-7.0.0-py312h4c3975b_1.conda
   hash:
-    md5: 8e30db4239508a538e4a3b3cdf5b9616
-    sha256: 158047d7a80e588c846437566d0df64cec5b0284c7184ceb4f3c540271406888
+    md5: ebc6080d32b9608710a0d651e581d9f4
+    sha256: 87fa638e19db9c9c5a1e9169d12a4b90ea32c72b47e8da328b36d233ba72cc79
   category: main
   optional: false
 - name: pthread-stubs

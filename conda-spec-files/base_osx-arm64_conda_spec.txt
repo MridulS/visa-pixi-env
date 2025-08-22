@@ -89,7 +89,7 @@ https://conda.anaconda.org/conda-forge/noarch/requests-2.32.5-pyhd8ed1ab_0.conda
 https://conda.anaconda.org/conda-forge/noarch/platformdirs-4.3.8-pyhe01879c_0.conda#424844562f5d337077b445ec6b1398a7
 https://conda.anaconda.org/conda-forge/noarch/packaging-25.0-pyh29332c3_1.conda#58335b26c38bf4a20f399384c33cbcf9
 https://conda.anaconda.org/conda-forge/noarch/pooch-1.8.2-pyhd8ed1ab_3.conda#d2bbbd293097e664ffb01fc4cdaf5729
-https://conda.anaconda.org/conda-forge/osx-arm64/psutil-7.0.0-py312hea69d52_0.conda#0f461bd37cb428dc20213a08766bb25d
+https://conda.anaconda.org/conda-forge/osx-arm64/psutil-7.0.0-py312h163523d_1.conda#2d2326a0b582b1b56252a479f204fab1
 https://conda.anaconda.org/conda-forge/osx-arm64/tornado-6.5.2-py312h163523d_0.conda#181a5ca410bad66be792da0e11038016
 https://conda.anaconda.org/conda-forge/noarch/websocket-client-1.8.0-pyhd8ed1ab_1.conda#84f8f77f0a9c6ef401ee96611745da8f
 https://conda.anaconda.org/conda-forge/noarch/terminado-0.18.1-pyh31c8845_0.conda#00b54981b923f5aefcd5e8547de056d5
