@@ -1025,7 +1025,7 @@ package:
   category: main
   optional: false
 - name: harfbuzz
-  version: 11.4.1
+  version: 11.4.2
   manager: conda
   platform: win-64
   dependencies:
@@ -1040,10 +1040,10 @@ package:
     ucrt: '>=10.0.20348.0'
     vc: '>=14.2,<15'
     vc14_runtime: '>=14.29.30139'
-  url: https://conda.anaconda.org/conda-forge/win-64/harfbuzz-11.4.1-h5f2951f_0.conda
+  url: https://conda.anaconda.org/conda-forge/win-64/harfbuzz-11.4.2-h5f2951f_0.conda
   hash:
-    md5: 8380e0dd96dfcb6bbd26921000a78ad7
-    sha256: d3a7a084efd0b3ca9a5384784533673d5529ef0dab96cec8bc6d86f786811c44
+    md5: 7a412ac4d8e8642f8c87093334909a02
+    sha256: 282873d428c4db83c1affafc58af1f4302c7fc48376adb19ce9e5fb58c67b2d2
   category: main
   optional: false
 - name: hdf5
@@ -2555,7 +2555,7 @@ package:
   category: main
   optional: false
 - name: pandas
-  version: 2.3.1
+  version: 2.3.2
   manager: conda
   platform: win-64
   dependencies:
@@ -2568,10 +2568,10 @@ package:
     ucrt: '>=10.0.20348.0'
     vc: '>=14.3,<15'
     vc14_runtime: '>=14.44.35208'
-  url: https://conda.anaconda.org/conda-forge/win-64/pandas-2.3.1-py312hc128f0a_0.conda
+  url: https://conda.anaconda.org/conda-forge/win-64/pandas-2.3.2-py312hc128f0a_0.conda
   hash:
-    md5: 77e4ad6ddb37a0b489746352f8d2275d
-    sha256: 711cf7b3aee4a92614744364ea996500b65fd5a11bceddb1fc03a5fd818b11d3
+    md5: 8d15003eebb1f6b913d07172664afb67
+    sha256: cb2a3e204e6e1cba20b4409e43b3405fb78713c3d3f7d61e4b52b7356852e391
   category: main
   optional: false
 - name: pandocfilters
@@ -3113,7 +3113,7 @@ package:
   category: main
   optional: false
 - name: pyzmq
-  version: 27.0.1
+  version: 27.0.2
   manager: conda
   platform: win-64
   dependencies:
@@ -3124,10 +3124,10 @@ package:
     vc: '>=14.3,<15'
     vc14_runtime: '>=14.44.35208'
     zeromq: '>=4.3.5,<4.3.6.0a0'
-  url: https://conda.anaconda.org/conda-forge/win-64/pyzmq-27.0.1-py312h5b324a9_0.conda
+  url: https://conda.anaconda.org/conda-forge/win-64/pyzmq-27.0.2-py312h5b324a9_0.conda
   hash:
-    md5: a9e7ac03e80de1dd49e05b32b86cd5e1
-    sha256: 491a5927c51ff13e42c29a3cb3bc18223ea33d375966b6d3a97451bb07484b1b
+    md5: 75080ef44e38151a68c2993b2fe45041
+    sha256: acae7d5e02cf1850b7a0d23cdfe4167aa9ff8c6e154c2f7413400e61e1614c6f
   category: main
   optional: false
 - name: qhull
@@ -3455,10 +3455,10 @@ package:
     ucrt: '>=10.0.20348.0'
     vc: '>=14.3,<15'
     vc14_runtime: '>=14.44.35208'
-  url: https://conda.anaconda.org/conda-forge/win-64/tbb-2022.2.0-h18a62a1_0.conda
+  url: https://conda.anaconda.org/conda-forge/win-64/tbb-2022.2.0-h18a62a1_1.conda
   hash:
-    md5: 179798037f659777ecbb84d825b0e9b4
-    sha256: 298bdaf65059a0dd9e61ae8a236da945adc8fcac006920ae4d06a0ba7a7364d9
+    md5: 249b85df4b7a410126acdc99c112be60
+    sha256: 109fda9fdc27b298431ae9e9e7cfa29c4f5e892041b17f8beaa170bc80c6ddc1
   category: main
   optional: false
 - name: terminado
@@ -5108,7 +5108,7 @@ package:
   category: main
   optional: false
 - name: harfbuzz
-  version: 11.4.1
+  version: 11.4.2
   manager: conda
   platform: osx-64
   dependencies:
@@ -5122,10 +5122,10 @@ package:
     libfreetype6: '>=2.13.3'
     libglib: '>=2.84.3,<3.0a0'
     libzlib: '>=1.3.1,<2.0a0'
-  url: https://conda.anaconda.org/conda-forge/osx-64/harfbuzz-11.4.1-h0ffbb26_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-64/harfbuzz-11.4.2-h0ffbb26_0.conda
   hash:
-    md5: 85492249275210cbe46298a1ec37103f
-    sha256: 633dedb46199ff54001b41127b4119fbf3f4976a576eb9fb61db0ab4946f19cf
+    md5: 7c1ac6226072d80aafa797c9e0c17bdb
+    sha256: 14e2b87513c4a45dcfccd8e8e536a4572ba955a3dc680b4e40726b5e03ba50cc
   category: main
   optional: false
 - name: hdf5
@@ -6658,7 +6658,7 @@ package:
   category: main
   optional: false
 - name: pandas
-  version: 2.3.1
+  version: 2.3.2
   manager: conda
   platform: osx-64
   dependencies:
@@ -6670,10 +6670,10 @@ package:
     python-tzdata: '>=2022.7'
     python_abi 3.12.* *_cp312: '*'
     pytz: '>=2020.1'
-  url: https://conda.anaconda.org/conda-forge/osx-64/pandas-2.3.1-py312hbf2c5ff_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-64/pandas-2.3.2-py312hbf2c5ff_0.conda
   hash:
-    md5: b54f2b1bc50bbe54852f0b790313bfe8
-    sha256: a0c3c20b33e449690d0bcef2f2589d6b8b4ed65498d82bd0935ed735fcf07e3f
+    md5: c7b84cb440695f139ea34189a1c4e094
+    sha256: 55e632cf2befb255b963b9d50d3b692294ae6a426aae0fad4526b975398d09f8
   category: main
   optional: false
 - name: pandocfilters
@@ -7221,7 +7221,7 @@ package:
   category: main
   optional: false
 - name: pyzmq
-  version: 27.0.1
+  version: 27.0.2
   manager: conda
   platform: osx-64
   dependencies:
@@ -7231,10 +7231,10 @@ package:
     python: '>=3.12,<3.13.0a0'
     python_abi 3.12.* *_cp312: '*'
     zeromq: '>=4.3.5,<4.4.0a0'
-  url: https://conda.anaconda.org/conda-forge/osx-64/pyzmq-27.0.1-py312hbb7883b_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-64/pyzmq-27.0.2-py312hbb7883b_0.conda
   hash:
-    md5: 89bf2bed3fbb0d2b489267e22d27ed5f
-    sha256: 4fc9c8a606d88cddcc59432db3bd28dd180f9538c9f9c6cb1186b384a0fb0040
+    md5: 4842de069ff4b46ed35928a71e6693ce
+    sha256: 8feaa37c016ce972d3beef5028918eed33c40a2b60d78a2a4bb679f4e1ba1ad6
   category: main
   optional: false
 - name: qhull
@@ -7578,10 +7578,10 @@ package:
     __osx: '>=10.13'
     libcxx: '>=19'
     libhwloc: '>=2.12.1,<2.12.2.0a0'
-  url: https://conda.anaconda.org/conda-forge/osx-64/tbb-2022.2.0-hc025b3e_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-64/tbb-2022.2.0-hc025b3e_1.conda
   hash:
-    md5: ab6138aeac6e1d997383f16d31f260f3
-    sha256: ceb72b0ff57d321086de37443eb38101fcda8211b5b03c94216e9c0d95e12efd
+    md5: 796b8d4a40afd4951d87ffd939c6a206
+    sha256: 44d9b5795d8c72da1002ef504c16eadcb8615c9c8098c830c12ebacae31149ed
   category: main
   optional: false
 - name: terminado
@@ -9038,7 +9038,7 @@ package:
   category: main
   optional: false
 - name: harfbuzz
-  version: 11.4.1
+  version: 11.4.2
   manager: conda
   platform: osx-arm64
   dependencies:
@@ -9052,10 +9052,10 @@ package:
     libfreetype6: '>=2.13.3'
     libglib: '>=2.84.3,<3.0a0'
     libzlib: '>=1.3.1,<2.0a0'
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/harfbuzz-11.4.1-hf4e55d4_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/harfbuzz-11.4.2-hf4e55d4_0.conda
   hash:
-    md5: 9e59cc7df79906d1ab37035bb1265050
-    sha256: 814a0aaef229366a6b8d623e9f414c4d83adde1f2f6e0a6abcf012c39ffc543c
+    md5: f930186401d7fa62354a450931356284
+    sha256: d1ff9f15a3d175f0b8e240b6231191e2e5e464ab4d382a9c6c6d1069da5e2c70
   category: main
   optional: false
 - name: hdf5
@@ -10591,7 +10591,7 @@ package:
   category: main
   optional: false
 - name: pandas
-  version: 2.3.1
+  version: 2.3.2
   manager: conda
   platform: osx-arm64
   dependencies:
@@ -10603,10 +10603,10 @@ package:
     python-tzdata: '>=2022.7'
     python_abi 3.12.* *_cp312: '*'
     pytz: '>=2020.1'
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/pandas-2.3.1-py312h98f7732_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/pandas-2.3.2-py312h98f7732_0.conda
   hash:
-    md5: d3775e9b27579a0e96150ce28a2542bd
-    sha256: f4f98436dde01309935102de2ded045bb5500b42fb30a3bf8751b15affee4242
+    md5: 5e79cb3dfde551ceed2713a31babf903
+    sha256: fcbd2083a33d7e3ae9fae3ed0612e8d3e47e67da0cf5c73137e6fb13a50bda9e
   category: main
   optional: false
 - name: pandocfilters
@@ -11155,7 +11155,7 @@ package:
   category: main
   optional: false
 - name: pyzmq
-  version: 27.0.1
+  version: 27.0.2
   manager: conda
   platform: osx-arm64
   dependencies:
@@ -11165,10 +11165,10 @@ package:
     python: '>=3.12,<3.13.0a0 *_cpython'
     python_abi 3.12.* *_cp312: '*'
     zeromq: '>=4.3.5,<4.4.0a0'
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/pyzmq-27.0.1-py312h211b278_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/pyzmq-27.0.2-py312h211b278_0.conda
   hash:
-    md5: 4205cddbceb48fd4d006ca2f9689e588
-    sha256: ed8712fd5be75843c1ae99fc8feb44d53bdfef259d13549fddfbf424135e03a3
+    md5: a4a61ef89d6d5a2c2c4b3acd6bf338b4
+    sha256: b958515ddde46cd2301df2e10236087222bf0cb740f0298f12a6dc94ed9635f3
   category: main
   optional: false
 - name: qhull
@@ -11513,10 +11513,10 @@ package:
     __osx: '>=11.0'
     libcxx: '>=19'
     libhwloc: '>=2.12.1,<2.12.2.0a0'
-  url: https://conda.anaconda.org/conda-forge/osx-arm64/tbb-2022.2.0-h5b2e6d4_0.conda
+  url: https://conda.anaconda.org/conda-forge/osx-arm64/tbb-2022.2.0-h5b2e6d4_1.conda
   hash:
-    md5: 8509d352db4889ee614e5294d434e041
-    sha256: 1361dc12479f41d80624a1be82ddbf23966827ceecf488af6937ccab6f37b6f7
+    md5: 1cdd70110585806da18f400d30d9b497
+    sha256: 561cc8c407880ff6f3965778f78c860d93d3b9c5bd206ba9aac7c437794d4155
   category: main
   optional: false
 - name: terminado
@@ -13082,7 +13082,7 @@ package:
   category: main
   optional: false
 - name: harfbuzz
-  version: 11.4.1
+  version: 11.4.2
   manager: conda
   platform: linux-64
   dependencies:
@@ -13097,10 +13097,10 @@ package:
     libglib: '>=2.84.3,<3.0a0'
     libstdcxx: '>=14'
     libzlib: '>=1.3.1,<2.0a0'
-  url: https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-11.4.1-h15599e2_0.conda
+  url: https://conda.anaconda.org/conda-forge/linux-64/harfbuzz-11.4.2-h15599e2_0.conda
   hash:
-    md5: 7da3b5c281ded5bb6a634e1fe7d3272f
-    sha256: b43e4f3c70eca82d733eb26bb8f031552f30fa4fb24c9455555a8a1baba6e1cc
+    md5: 63eb5b7e4230dfa0ee37b8fe26bc4dbd
+    sha256: 8c0b7e578c3b0f08d224c849a4e607bba630da7a9383cb05af5d4101d9bfe108
   category: main
   optional: false
 - name: hdf5
@@ -14804,7 +14804,7 @@ package:
   category: main
   optional: false
 - name: pandas
-  version: 2.3.1
+  version: 2.3.2
   manager: conda
   platform: linux-64
   dependencies:
@@ -14817,10 +14817,10 @@ package:
     python-tzdata: '>=2022.7'
     python_abi 3.12.* *_cp312: '*'
     pytz: '>=2020.1'
-  url: https://conda.anaconda.org/conda-forge/linux-64/pandas-2.3.1-py312hf79963d_0.conda
+  url: https://conda.anaconda.org/conda-forge/linux-64/pandas-2.3.2-py312hf79963d_0.conda
   hash:
-    md5: 7c73e62e62e5864b8418440e2a2cc246
-    sha256: 6ec86b1da8432059707114270b9a45d767dac97c4910ba82b1f4fa6f74e077c8
+    md5: 73ed2394e5a88a403a071355698b48cb
+    sha256: 1d2bbe7e84460ee68a25687f0312d7a106e97a980e89c491cd5c0ea2d1f9e146
   category: main
   optional: false
 - name: pandocfilters
@@ -15350,7 +15350,7 @@ package:
   category: main
   optional: false
 - name: pyzmq
-  version: 27.0.1
+  version: 27.0.2
   manager: conda
   platform: linux-64
   dependencies:
@@ -15361,10 +15361,10 @@ package:
     python: '>=3.12,<3.13.0a0'
     python_abi 3.12.* *_cp312: '*'
     zeromq: '>=4.3.5,<4.4.0a0'
-  url: https://conda.anaconda.org/conda-forge/linux-64/pyzmq-27.0.1-py312h6748674_0.conda
+  url: https://conda.anaconda.org/conda-forge/linux-64/pyzmq-27.0.2-py312h6748674_0.conda
   hash:
-    md5: 14f393a112e2ac0e87d257a25ff23ed2
-    sha256: 31fac3fe50d9a18a89f92483db4bdb2995e2126d237aaec92c367bad9efe0896
+    md5: e0770749ec419e8e68e71716507c1be4
+    sha256: d697fb7e36427b085feffd63288365be543f7c2a779e35205cb1e52d1ca49957
   category: main
   optional: false
 - name: qhull
@@ -15704,10 +15704,10 @@ package:
     libgcc: '>=14'
     libhwloc: '>=2.12.1,<2.12.2.0a0'
     libstdcxx: '>=14'
-  url: https://conda.anaconda.org/conda-forge/linux-64/tbb-2022.2.0-hb60516a_0.conda
+  url: https://conda.anaconda.org/conda-forge/linux-64/tbb-2022.2.0-hb60516a_1.conda
   hash:
-    md5: 14dbfb03c196042efb72df45f036f3aa
-    sha256: 39f1213d6bd25c4da529899d66d559634842aa42288ce7efa7f7fc8556a08f38
+    md5: 29ed2be4b47b5aa1b07689e12407fbfd
+    sha256: 105a12b00e407aaaf04d811d3e737d470fd9e9328bc9a6a57f0f3fea5a486e84
   category: main
   optional: false
 - name: terminado

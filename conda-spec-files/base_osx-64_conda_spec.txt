@@ -99,7 +99,7 @@ https://conda.anaconda.org/conda-forge/noarch/send2trash-1.8.3-pyh31c8845_1.cond
 https://conda.anaconda.org/conda-forge/osx-64/libedit-3.1.20250104-pl5321ha958ccf_0.conda#1f4ed31220402fcddc083b4bff406868
 https://conda.anaconda.org/conda-forge/osx-64/krb5-1.21.3-h37d8d59_0.conda#d4765c524b1d91567886bde656fb514b
 https://conda.anaconda.org/conda-forge/osx-64/zeromq-4.3.5-h7130eaa_7.conda#6a0a76cd2b3d575e1b7aaeb283b9c3ed
-https://conda.anaconda.org/conda-forge/osx-64/pyzmq-27.0.1-py312hbb7883b_0.conda#89bf2bed3fbb0d2b489267e22d27ed5f
+https://conda.anaconda.org/conda-forge/osx-64/pyzmq-27.0.2-py312hbb7883b_0.conda#4842de069ff4b46ed35928a71e6693ce
 https://conda.anaconda.org/conda-forge/noarch/prometheus_client-0.22.1-pyhd8ed1ab_0.conda#c64b77ccab10b822722904d889fa83b5
 https://conda.anaconda.org/conda-forge/noarch/typing_utils-0.1.0-pyhd8ed1ab_1.conda#f6d7aa696c67756a650e91e15e88223c
 https://conda.anaconda.org/conda-forge/noarch/overrides-7.7.0-pyhd8ed1ab_1.conda#e51f1e4089cad105b6cac64bd8166587

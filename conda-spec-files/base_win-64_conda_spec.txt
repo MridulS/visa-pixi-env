@@ -53,7 +53,7 @@ https://conda.anaconda.org/conda-forge/win-64/libiconv-1.18-hc1393d2_2.conda#645
 https://conda.anaconda.org/conda-forge/win-64/libxml2-2.13.8-h741aa76_1.conda#aeb49dc1f5531de13d2c0d57ffa6d0c8
 https://conda.anaconda.org/conda-forge/win-64/libwinpthread-12.0.0.r4.gg4f2fc60ca-h57928b3_9.conda#08bfa5da6e242025304b206d152479ef
 https://conda.anaconda.org/conda-forge/win-64/libhwloc-2.12.1-default_h88281d1_1000.conda#e6298294e7612eccf57376a0683ddc80
-https://conda.anaconda.org/conda-forge/win-64/tbb-2021.13.0-h18a62a1_2.conda#6f339f632ba0618d8f42acf80218757b
+https://conda.anaconda.org/conda-forge/win-64/tbb-2021.13.0-h18a62a1_3.conda#72226638648e494aaafde8155d50dab2
 https://conda.anaconda.org/conda-forge/win-64/llvm-openmp-20.1.8-hfa2b4ca_1.conda#2c3afd82c44b0bf59fa8f924e30c0513
 https://conda.anaconda.org/conda-forge/win-64/mkl-2024.2.2-h57928b3_16.conda#5cddc979c74b90cf5e5cda4f97d5d8bb
 https://conda.anaconda.org/conda-forge/win-64/libblas-3.9.0-34_h5709861_mkl.conda#a64dcde5f27b8e0e413ddfc56151664c
@@ -102,7 +102,7 @@ https://conda.anaconda.org/conda-forge/noarch/terminado-0.18.1-pyh5737063_0.cond
 https://conda.anaconda.org/conda-forge/noarch/send2trash-1.8.3-pyh5737063_1.conda#e6a4e906051565caf5fdae5b0415b654
 https://conda.anaconda.org/conda-forge/win-64/krb5-1.21.3-hdf4eb48_0.conda#31aec030344e962fbd7dbbbbd68e60a9
 https://conda.anaconda.org/conda-forge/win-64/zeromq-4.3.5-ha9f60a1_7.conda#e03f2c245a5ee6055752465519363b1c
-https://conda.anaconda.org/conda-forge/win-64/pyzmq-27.0.1-py312h5b324a9_0.conda#a9e7ac03e80de1dd49e05b32b86cd5e1
+https://conda.anaconda.org/conda-forge/win-64/pyzmq-27.0.2-py312h5b324a9_0.conda#75080ef44e38151a68c2993b2fe45041
 https://conda.anaconda.org/conda-forge/noarch/prometheus_client-0.22.1-pyhd8ed1ab_0.conda#c64b77ccab10b822722904d889fa83b5
 https://conda.anaconda.org/conda-forge/noarch/typing_utils-0.1.0-pyhd8ed1ab_1.conda#f6d7aa696c67756a650e91e15e88223c
 https://conda.anaconda.org/conda-forge/noarch/overrides-7.7.0-pyhd8ed1ab_1.conda#e51f1e4089cad105b6cac64bd8166587
